@@ -63,7 +63,7 @@ The Licensed Application is **not** tailored to comply with industry-specific re
 ---
 
 ## 5. USE OF DATA  
-5.1 By using the Licensed Application, you agree that the Licensor may collect and process your personal data in accordance with its Privacy Policy: [Insert Privacy Policy URL].  
+5.1 By using the Licensed Application, you agree that the Licensor may collect and process your personal data in accordance with its Privacy Policy: https://legal.getcauldron.ai/privacy
 
 5.2 The Licensor may collect technical data for product improvement but will not personally identify you.  
 
