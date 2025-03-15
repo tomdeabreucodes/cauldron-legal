@@ -14,7 +14,7 @@ This privacy notice tells you what to expect us to do with your personal informa
 ## Contact Details
 
 **Email:**  
-tom@subpixelsoftware.com
+legal@subpixelsoftware.com
 
 ## What Information We Collect, Use, and Why
 
